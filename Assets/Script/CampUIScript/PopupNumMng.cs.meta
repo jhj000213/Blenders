@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 7a57a2b5d4f174b498491250a621f7ee
+timeCreated: 1471066582
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - _MainPopup: {instanceID: 0}
+  - _HeroTab: {instanceID: 0}
+  - _ItemTab: {instanceID: 0}
+  - _ItemTab_ArmorTab: {instanceID: 0}
+  - _ItemTab_WarriorWeaponTab: {instanceID: 0}
+  - _ItemTab_MageWeaponTab: {instanceID: 0}
+  - _ItemTab_ShamanWeaponTab: {instanceID: 0}
+  - _ItemTab_ExpendableseTab: {instanceID: 0}
+  - _SkillTab: {instanceID: 0}
+  - _SkillTab_1: {instanceID: 0}
+  - _SkillTab_2: {instanceID: 0}
+  - _SkillTab_3: {instanceID: 0}
+  - _SoldierTab: {instanceID: 0}
+  - _SoldierTab_Warrior: {instanceID: 0}
+  - _SoldierTab_Archer: {instanceID: 0}
+  - _SoldierTab_Mage: {instanceID: 0}
+  - _SoldierTab_LevelSetting: {instanceID: 0}
+  - _SoldierTab_SetFormation: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
